@@ -34,7 +34,7 @@
 |1|Dương Đình Phương Dao|22520202|[22520202](https://github.com/daoddp/CS114.O21)|22520202@gm.uit.edu.vn|
 |2|Phạm Hồ Trúc Linh|22520777|[22520777](https://github.com/PHTLing/CS114.O21)|22520777@gm.uit.edu.vn|
 |3|Nguyễn Duy Tân|22521304|[22521304](https://github.com/Dtan141/CS114.O21)|22521304@gm.uit.edu.vn|
-|4|Lê Hoài Yến Vy|22521705|[22521705](https://github.com/Phy54/CS114.O21)|22521705@gm.uit.edu.vn|
+|4|Lê Hoài Yến Vy|22521705|[22521705](https://github.com/VieVyyy/CS114.O21)|22521705@gm.uit.edu.vn|
 |5|Phương Hoàng Yến|22521716|[22521716](https://github.com/Phy54/CS114.O21)|22521716@gm.uit.edu.vn|
 
 ## Đồ Án Môn Học

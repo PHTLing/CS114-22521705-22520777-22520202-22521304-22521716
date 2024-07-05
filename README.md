@@ -38,9 +38,9 @@
 |5|Phương Hoàng Yến|22521716|[22521716](https://github.com/Phy54/CS114.O21)|22521716@gm.uit.edu.vn|
 
 ## Đồ Án Môn Học
-1. Bài tập nhận dạng chữ viết tay
-2. Bài tập Dự đoán điểm IT001
-3. Bài tập MotocycleClassification
+1. Nhận dạng chữ viết tay.
+2. [Bài tập dự đoán điểm IT001](https://github.com/PHTLing/CS114-22521705-22520777-22520202-22521304-22521716/tree/56d08222d329c1c8c1cf11c9bd9e15b2d43813ea/D%E1%BB%B1%20%C4%91o%C3%A1n%20%C4%91i%E1%BB%83m%20IT001).
+3. [Bài tập MotocycleClassification](https://github.com/PHTLing/CS114-22521705-22520777-22520202-22521304-22521716/tree/56d08222d329c1c8c1cf11c9bd9e15b2d43813ea/MotocycleClassification).
 
 
 
